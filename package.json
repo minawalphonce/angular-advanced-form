@@ -1,0 +1,24 @@
+{
+  "name": "angular-advanced-form",
+  "version": "1.0.0",
+  "description": "adding advanced methods to angular form",
+  "main": "ngAdvancedForm.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minawalphonce/angular-advanced-form.git"
+  },
+  "keywords": [
+    "angular",
+    "ngform",
+    "validation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minawalphonce/angular-advanced-form/issues"
+  },
+  "homepage": "https://github.com/minawalphonce/angular-advanced-form#readme"
+}
