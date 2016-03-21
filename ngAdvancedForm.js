@@ -4,7 +4,7 @@
         .module('ngAdvancedForm',[])
         .config(['$provide', ngCauseValidation]);
 
-    function pdCauseValidation($provide) {
+    function ngCauseValidation($provide) {
         $provide.decorator('formDirective', [
             '$delegate', '$q', formDirectiveOverride
         ]);
