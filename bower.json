@@ -1,0 +1,23 @@
+{
+  "name": "angular-advanced-form",
+  "description": "adding advanced methods to angular form",
+  "main": "ngAdvancedForm.js",
+  "authors": [
+    "minawalphonce"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "ngform",
+    "validation"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/minawalphonce/angular-advanced-form",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
